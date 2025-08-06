@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this tutorial, please cite it as below."
+authors:
+  - family-names: Akamine
+    given-names: Sho
+    orcid: https://orcid.org/0000-0002-2260-2032
+title: "WhisperX tutorial for language sciences"
+version: 1.0.0
+date-released: 2025-08-06
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.16752823
+repository-code: "https://github.com/ShoAkamine/whisperx_tutorial"

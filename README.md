@@ -41,7 +41,8 @@ If you encounter some issues running the whisper.ipynb notebook, please check [t
 
 # Citation
 If you find it useful, please consider citing the repository:
-``
+
+```
 @software{Akamine_WhisperX_tutorial_for_2025,
 author = {Akamine, Sho},
 month = aug,
@@ -50,4 +51,4 @@ url = {https://github.com/ShoAkamine/whisperx_tutorial},
 version = {1.0.0},
 year = {2025}
 }
-``
+```

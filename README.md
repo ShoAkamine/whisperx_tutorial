@@ -39,3 +39,15 @@ You only need to follow steps 1--4 once. After setting up the Anaconda environme
 ## Error solution guide
 If you encounter some issues running the whisper.ipynb notebook, please check [this document](https://docs.google.com/document/d/1GwX3aM83n4W-JVmOpEvhqh_H0Fmwd2kcZDsic5WiXR4/edit?usp=sharing) for solutions! 
 
+# Citation
+If you find it useful, please consider citing the repository:
+``
+@software{Akamine_WhisperX_tutorial_for_2025,
+author = {Akamine, Sho},
+month = aug,
+title = {{WhisperX tutorial for language sciences}},
+url = {https://github.com/ShoAkamine/whisperx_tutorial},
+version = {1.0.0},
+year = {2025}
+}
+``

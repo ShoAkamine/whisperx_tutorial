@@ -47,7 +47,7 @@ Akamine, S. (2025). WhisperX tutorial for language sciences (Version 1.0.0) [Com
 ```
 @software{Akamine_WhisperX_tutorial_for_2025,
 author = {Akamine, Sho},
-doi = {https://doi.org/10.5281/zenodo.16752823},
+doi = {10.5281/zenodo.16752823},
 month = aug,
 title = {{WhisperX tutorial for language sciences}},
 url = {https://github.com/ShoAkamine/whisperx_tutorial},

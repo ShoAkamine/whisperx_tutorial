@@ -47,7 +47,7 @@ If you find it useful, please consider citing the repository:
 author = {Akamine, Sho},
 month = aug,
 title = {{WhisperX tutorial for language sciences}},
-url = {https://github.com/ShoAkamine/whisperx_tutorial},
+url = {https://doi.org/10.5281/zenodo.16752824},
 version = {1.0.0},
 year = {2025}
 }

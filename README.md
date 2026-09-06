@@ -42,12 +42,15 @@ If you encounter some issues running the whisper.ipynb notebook, please check [t
 # Citation
 If you find it useful, please consider citing the repository:
 
+Akamine, S. (2025). WhisperX tutorial for language sciences (Version 1.0.0) [Computer software]. https://doi.org/10.5281/zenodo.16752823
+
 ```
 @software{Akamine_WhisperX_tutorial_for_2025,
 author = {Akamine, Sho},
+doi = {10.5281/zenodo.16752823},
 month = aug,
 title = {{WhisperX tutorial for language sciences}},
-url = {https://doi.org/10.5281/zenodo.16752824},
+url = {https://github.com/ShoAkamine/whisperx_tutorial},
 version = {1.0.0},
 year = {2025}
 }

@@ -7,7 +7,5 @@ authors:
 title: "WhisperX tutorial for language sciences"
 version: 1.0.0
 date-released: 2025-08-06
-identifiers:
-  - type: doi
-    value: 10.5281/zenodo.16752823
+doi: 10.5281/zenodo.16752823
 repository-code: "https://github.com/ShoAkamine/whisperx_tutorial"
